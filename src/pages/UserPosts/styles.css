@@ -1,0 +1,9 @@
+.user-posts__body {
+    margin: 0 10% 0 10%;
+}
+
+.user-posts__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
